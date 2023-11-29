@@ -3,6 +3,17 @@ PAWS&TAILS An Adoption Center Website
 Screenshots:
 ![1 img](https://github.com/IqraAli85/Ruby-and-Rails/assets/145186186/68641d17-9c52-4b30-b0a5-c5dca52db2ff)
 
+![2](https://github.com/IqraAli85/Ruby-and-Rails/assets/145186186/a6324c38-3f66-4dc3-abec-b2c4a369756f)
+This is the middle part of home page
+
+![3](https://github.com/IqraAli85/Ruby-and-Rails/assets/145186186/ba844937-3b8c-47df-8f44-9c9113cb9f95)
+Footer of Home page
+
+![Capturppp](https://github.com/IqraAli85/Ruby-and-Rails/assets/145186186/5dbce539-9877-469b-9338-f65f41b786c6)
+
+
+
+
 
 Purpose of Project:
 The pursose of this project is to create a user friendly website with absolute no donations. You can adopt a pet with no issue or you can find second lovely home for your pets.
