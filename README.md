@@ -1,5 +1,4 @@
-Title:
-PAWS&TAILS An Adoption Center Website 
+Title: PAWS&TAILS An Adoption Center Website 
 Screenshots:
 ![1 img](https://github.com/IqraAli85/Ruby-and-Rails/assets/145186186/68641d17-9c52-4b30-b0a5-c5dca52db2ff)
 
